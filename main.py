@@ -5,7 +5,7 @@ import os
 import discord
 from discord.ext import commands
 
-TOKEN = os.getenv("MTU2MjEzMzUxNDE1MTkyNzgxOA.GIVX3M.BI_QCDQFdVvLox72HNTC1HbuUon6a8vr4DpSEY")
+TOKEN = "MTU2MjEzMzUxNDE1MTkyNzgxOA.GVH7Hs.EcCbdnGqunkD_Q9pcyH1xjiErlExA7n3a2Iv_I"
 PREFIX = "&"
 DATA_FILE = "roles.json"
 
